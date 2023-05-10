@@ -1,2 +1,2 @@
-# pygame
-some simulations and small games in pygame
+# pygame/tkinter
+some simulations and small games in pygame/tkinter
